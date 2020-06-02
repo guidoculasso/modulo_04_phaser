@@ -1,0 +1,15 @@
+ 
+ aca se van a nombar los siguientes cambios
+
+ * imagen de fondo del juego
+ * nuevas plataformas
+ * nueva estrella (roja) con puntuacion de 15
+ * cambio de gravedad: de 300 (original) a 500
+ * la suma del valor de ambas estrellas
+ * un cartel que dice game over y que reinicio del juego
+ * cambio de posicion del score al medio de pantalla
+
+ Otros cambios que no pude lograr
+
+ * cambiar el fondo cuando se juntan todas las primeras estrellas
+ * hacer que el personaje explote cuando toca la bomba 
